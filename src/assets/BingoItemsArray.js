@@ -261,13 +261,13 @@ const bingoItemsArray = [
     id: 44,
     description: "Scout",
     longDescription: "Scout",
-    icon: "src/assets/icons/scout.svg"
+    icon: "./src/assets/icons/scout.svg"
   },
   {
     id: 45,
     description: "Tenderft.",
     longDescription: "Tenderfoot",
-    icon: "../assets/icons/tenderfoot.svg"
+    icon: "./src/assets/icons/tenderfoot.svg"
   },
   {
     id: 46,
