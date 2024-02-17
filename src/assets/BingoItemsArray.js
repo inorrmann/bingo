@@ -45,7 +45,7 @@ const bingoItemsArray = [
     id: 8,
     description: "AOL",
     longDescription: "Arrow of Light",
-    icon: "src/assets/icons/aol.svg"
+    icon: "src/assets/icons/aol.jpg"
   },
   {
     id: 9,
