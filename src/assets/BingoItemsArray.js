@@ -45,7 +45,7 @@ const bingoItemsArray = [
     id: 8,
     description: "AOL",
     longDescription: "Arrow of Light",
-    icon: "src/assets/icons/aol.jpg"
+    icon: "./src/assets/icons/aol.svg"
   },
   {
     id: 9,
@@ -55,15 +55,16 @@ const bingoItemsArray = [
   },
   {
     id: 10,
-    description: "Shooting",
-    longDescription: "Shooting Sports",
-    icon: "src/assets/icons/shooting-sports.svg"
+    description: "Archery",
+    longDescription: "Archery",
+    icon: "src/assets/icons/archery.svg"
   },
   {
     id: 11,
-    description: "Clove Hit.",
+    description: "Clove Hitch",
     longDescription: "Clove Hitch",
-    icon: "src/assets/icons/clove-hitch.svg"
+    icon: "src/assets/icons/clove-hitch.svg",
+    smallText: true
   },
   {
     id: 12,
@@ -85,9 +86,10 @@ const bingoItemsArray = [
   },
   {
     id: 15,
-    description: "Larks head",
+    description: "Lark's head",
     longDescription: "Lark's head knot",
-    icon: "src/assets/icons/larks-head.png"
+    icon: "src/assets/icons/larks-head.png",
+    smallText: true
   },
   {
     id: 16,
@@ -177,13 +179,14 @@ const bingoItemsArray = [
     id: 30,
     description: "",
     longDescription: "",
-    icon: "src/assets/icons/"
+    icon: "src/assets/icons/",
   },
   {
     id: 31,
-    description: "",
-    longDescription: "",
-    icon: "src/assets/icons/"
+    description: "Christopher",
+    longDescription: "Christopher",
+    icon: "src/assets/icons/christopher.jpg",
+    smallText: true
   },
   {
     id: 32,
@@ -211,27 +214,27 @@ const bingoItemsArray = [
   },
   {
     id: 36,
-    description: "",
-    longDescription: "",
-    icon: "src/assets/icons/"
+    description: "Wesley",
+    longDescription: "Wesley",
+    icon: "src/assets/icons/wesley.jpg"
   },
   {
     id: 37,
-    description: "",
-    longDescription: "",
-    icon: "src/assets/icons/"
+    description: "Townes",
+    longDescription: "Townes",
+    icon: "src/assets/icons/townes.jpg"
   },
   {
     id: 38,
-    description: "",
-    longDescription: "",
-    icon: "src/assets/icons/"
+    description: "Kinnik",
+    longDescription: "Kinnik",
+    icon: "src/assets/icons/kinnik.jpg"
   },
   {
     id: 39,
-    description: "",
-    longDescription: "",
-    icon: "src/assets/icons/"
+    description: "Halian",
+    longDescription: "Halian",
+    icon: "src/assets/icons/halian.jpg"
   },
   {
     id: 40,
@@ -241,15 +244,15 @@ const bingoItemsArray = [
   },
   {
     id: 41,
-    description: "",
-    longDescription: "",
-    icon: "src/assets/icons/"
+    description: "Maggie",
+    longDescription: "Maggie",
+    icon: "src/assets/icons/maggie.jpg"
   },
   {
     id: 42,
-    description: "",
-    longDescription: "",
-    icon: "src/assets/icons/"
+    description: "Nami",
+    longDescription: "Nami",
+    icon: "src/assets/icons/nami.svg"
   },
   {
     id: 43,
@@ -267,7 +270,7 @@ const bingoItemsArray = [
     id: 45,
     description: "Tenderft.",
     longDescription: "Tenderfoot",
-    icon: "../assets/icons/tenderfoot.SVG"
+    icon: "./src/assets/icons/tenderfoot.SVG"
   },
   {
     id: 46,
@@ -277,9 +280,10 @@ const bingoItemsArray = [
   },
   {
     id: 47,
-    description: "1st Class",
+    description: "First Class",
     longDescription: "First class",
-    icon: "src/assets/icons/first-class.svg"
+    icon: "src/assets/icons/first-class.svg",
+    smallText: true
   },
   {
     id: 48,

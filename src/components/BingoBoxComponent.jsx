@@ -40,7 +40,7 @@ export default function BingoBoxComponent(props) {
       {bingoItemsArray.map((item) => (
         <div
           key={item.id}
-          className="rounded border border-slate-500 text-center uppercase text-base text-wrap"
+          className={`rounded border border-slate-500 text-center uppercase text-base text-wrap ${getBackgroundColor(item.id)}`}
         >
           <BingoItemComponent
             backgroundColor={getBackgroundColor(item.id)}
@@ -49,6 +49,7 @@ export default function BingoBoxComponent(props) {
             description={item.description}
             opacity={getImageOpacity(item.id)}
             textColor={getTextColor(item.id)}
+            smallText={item.smallText}
           />
         </div>
       ))}
