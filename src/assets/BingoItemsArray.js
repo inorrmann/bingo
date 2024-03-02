@@ -190,26 +190,26 @@ const bingoItemsArray = [
   },
   {
     id: 32,
-    description: "",
-    longDescription: "",
+    description: "William",
+    longDescription: "William",
     icon: "src/assets/icons/"
   },
   {
     id: 33,
-    description: "",
-    longDescription: "",
+    description: "Jaden",
+    longDescription: "Jaden",
     icon: "src/assets/icons/"
   },
   {
     id: 34,
-    description: "",
-    longDescription: "",
+    description: "Alexis",
+    longDescription: "Alexis",
     icon: "src/assets/icons/"
   },
   {
     id: 35,
-    description: "",
-    longDescription: "",
+    description: "Brady",
+    longDescription: "Brady",
     icon: "src/assets/icons/"
   },
   {
@@ -238,8 +238,8 @@ const bingoItemsArray = [
   },
   {
     id: 40,
-    description: "",
-    longDescription: "",
+    description: "Brandon",
+    longDescription: "Brandon",
     icon: "src/assets/icons/"
   },
   {
@@ -258,7 +258,7 @@ const bingoItemsArray = [
     id: 43,
     description: "BSA",
     longDescription: "Boys Scouts of America",
-    icon: "src/assets/icons/boys-scouts-of-america.svg"
+    icon: "src/assets/icons/bsa.png"
   },
   {
     id: 44,

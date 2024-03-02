@@ -96,7 +96,7 @@ export default function PageWrapperComponent() {
           BRIDGING BINGO
         </span>
         <img
-          src="src/assets/icons/boys-scouts-of-america.svg"
+          src="src/assets/icons/bsa.png"
           alt="BSA Logo"
           className="w-24 h-24"
         />
