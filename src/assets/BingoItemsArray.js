@@ -61,22 +61,22 @@ const bingoItemsArray = [
   },
   {
     id: 11,
-    description: "Clove Hitch",
-    longDescription: "Clove Hitch",
-    icon: "src/assets/icons/clove-hitch.svg",
+    description: "Firemaking",
+    longDescription: "Firemaking",
+    icon: "src/assets/icons/firemaking.jpeg",
     smallText: true
   },
   {
     id: 12,
-    description: "Taut-line",
-    longDescription: "Taut-line hitch",
-    icon: "src/assets/icons/taut-line-hitch.svg"
+    description: "swimming",
+    longDescription: "Swimming",
+    icon: "src/assets/icons/swimming.png"
   },
   {
     id: 13,
-    description: "Two half",
-    longDescription: "Two half hitches",
-    icon: "src/assets/icons/two-half-hitches.svg"
+    description: "Survival c.",
+    longDescription: "Survival Camp",
+    icon: "src/assets/icons/survival-camp.png"
   },
   {
     id: 14,
@@ -86,100 +86,102 @@ const bingoItemsArray = [
   },
   {
     id: 15,
-    description: "Lark's head",
-    longDescription: "Lark's head knot",
-    icon: "src/assets/icons/larks-head.png",
-    smallText: true
+    description: "hiking",
+    longDescription: "hiking",
+    icon: "src/assets/icons/hiking.jpeg",
   },
   {
     id: 16,
-    description: "Bowline",
-    longDescription: "bowline",
-    icon: "src/assets/icons/bowline.svg"
+    description: "neckerchief",
+    longDescription: "neckerchief",
+    icon: "src/assets/icons/neckerchief.png",
+    smallText: true
   },
   {
     id: 17,
-    description: "",
-    longDescription: "",
-    icon: "src/assets/icons/"
+    description: "Scout life",
+    longDescription: "Scout Life",
+    icon: "src/assets/icons/scout-life.jpeg"
   },
   {
     id: 18,
-    description: "",
-    longDescription: "",
-    icon: "src/assets/icons/"
+    description: "6 essentials",
+    longDescription: "Six Essentials",
+    icon: "src/assets/icons/6-essentials.png",
+    smallText: true
   },
   {
     id: 19,
-    description: "",
-    longDescription: "",
-    icon: "src/assets/icons/"
+    description: "Handbook",
+    longDescription: "Scout handbook",
+    icon: "src/assets/icons/scout-handbook.jpeg"
   },
   {
     id: 20,
-    description: "",
-    longDescription: "",
-    icon: "src/assets/icons/"
+    description: "Bearnival",
+    longDescription: "Bearnival",
+    icon: "src/assets/icons/bearnival.png"
   },
   {
     id: 21,
-    description: "",
-    longDescription: "",
-    icon: "src/assets/icons/"
+    description: "Bridging",
+    longDescription: "Bridging Ceremony",
+    icon: "src/assets/icons/bridging.jpeg"
   },
   {
     id: 22,
-    description: "",
-    longDescription: "",
-    icon: "src/assets/icons/"
+    description: "Blue & gold",
+    longDescription: "Blue & gold",
+    icon: "src/assets/icons/B&G.png",
+    smallText: true
   },
   {
     id: 23,
-    description: "",
-    longDescription: "",
-    icon: "src/assets/icons/"
+    description: "Pack 461",
+    longDescription: "Pack 461",
+    icon: "src/assets/icons/461.png"
   },
   {
     id: 24,
-    description: "",
-    longDescription: "",
-    icon: "src/assets/icons/"
+    description: "Scout Sign",
+    longDescription: "Scout Sign",
+    icon: "src/assets/icons/scout-sign.png"
   },
   {
     id: 25,
-    description: "",
-    longDescription: "",
-    icon: "src/assets/icons/"
+    description: "Campfire",
+    longDescription: "Campfire",
+    icon: "src/assets/icons/campfire.jpeg"
   },
   {
     id: 26,
-    description: "",
-    longDescription: "",
-    icon: "src/assets/icons/"
+    description: "Tents",
+    longDescription: "Tents",
+    icon: "src/assets/icons/tents.jpeg"
   },
   {
     id: 27,
-    description: "",
-    longDescription: "",
-    icon: "src/assets/icons/"
+    description: "S'mores",
+    longDescription: "S'mores",
+    icon: "src/assets/icons/smores.png"
   },
   {
     id: 28,
-    description: "",
-    longDescription: "",
-    icon: "src/assets/icons/"
+    description: "PWD",
+    longDescription: "Pinewood Derby",
+    icon: "src/assets/icons/pwd.png"
   },
   {
     id: 29,
-    description: "",
-    longDescription: "",
-    icon: "src/assets/icons/"
+    description: "RGR",
+    longDescription: "Rain Gutter Regatta",
+    icon: "src/assets/icons/rgr.png"
   },
   {
     id: 30,
-    description: "",
-    longDescription: "",
-    icon: "src/assets/icons/",
+    description: "First Aid",
+    longDescription: "first aid",
+    icon: "src/assets/icons/first-aid.png",
   },
   {
     id: 31,
@@ -192,25 +194,25 @@ const bingoItemsArray = [
     id: 32,
     description: "William",
     longDescription: "William",
-    icon: "src/assets/icons/"
+    icon: "src/assets/icons/william.png"
   },
   {
     id: 33,
     description: "Jaden",
     longDescription: "Jaden",
-    icon: "src/assets/icons/"
+    icon: "src/assets/icons/jaden.png"
   },
   {
     id: 34,
     description: "Alexis",
     longDescription: "Alexis",
-    icon: "src/assets/icons/"
+    icon: "src/assets/icons/alexis.png"
   },
   {
     id: 35,
     description: "Brady",
     longDescription: "Brady",
-    icon: "src/assets/icons/"
+    icon: "src/assets/icons/brady.png"
   },
   {
     id: 36,
@@ -240,7 +242,7 @@ const bingoItemsArray = [
     id: 40,
     description: "Brandon",
     longDescription: "Brandon",
-    icon: "src/assets/icons/"
+    icon: "src/assets/icons/brandon.jpeg"
   },
   {
     id: 41,

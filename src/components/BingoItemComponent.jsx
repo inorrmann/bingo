@@ -7,7 +7,7 @@ export default function BingoItemComponent(props) {
         <img
           src={icon}
           alt={description}
-          className="h-14"
+          className="h-14 object-contain"
         />
       </div>
       <div className={`${textColor} text-center ${smallText ? 'text-sm' : ''}`}>

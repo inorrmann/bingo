@@ -63,7 +63,7 @@ export default function PageWrapperComponent() {
           <img
             src={findIconInArray(selectedNumber)}
             alt={findDescriptionInArray(selectedNumber)}
-            className="max-h-48 max-w-48 mr-4"
+            className="max-h-48 max-w-48 mr-4 object-contain"
           />
           <div className="text-6xl font-bold uppercase mt-20 text-slate-800">
             {selectedNumber}{selectedNumber !== null ? "." : ""} {findDescriptionInArray(selectedNumber)}
