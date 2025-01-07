@@ -130,7 +130,7 @@ const bingoItemsArray = [
   },
   {
     id: 22,
-    description: "Blue & gold",
+    description: "Blue & Gold",
     longDescription: "Blue & gold",
     icon: "src/assets/icons/B&G.png",
     smallText: true
