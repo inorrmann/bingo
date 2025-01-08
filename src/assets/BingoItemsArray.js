@@ -234,7 +234,7 @@ const bingoItemsArray = [
   },
   {
     id: 39,
-    description: "Merit B.",
+    description: "Merit Bdg.",
     longDescription: "Merit Badges",
     icon: "src/assets/icons/merit-badges.jpg"
   },
