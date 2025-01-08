@@ -194,7 +194,7 @@ const bingoItemsArray = [
     id: 32,
     description: "Elliott",
     longDescription: "Elliott",
-    icon: "src/assets/icons/fox-patrol.png"
+    icon: "src/assets/icons/elliott.png"
   },
   {
     id: 33,
@@ -212,13 +212,13 @@ const bingoItemsArray = [
     id: 35,
     description: "Kade",
     longDescription: "Kade",
-    icon: "src/assets/icons/fox-patrol.png"
+    icon: "src/assets/icons/kade.png"
   },
   {
     id: 36,
     description: "Lee",
     longDescription: "Lee",
-    icon: "src/assets/icons/fox-patrol.jpg"
+    icon: "src/assets/icons/lee.png"
   },
   {
     id: 37,
@@ -246,64 +246,64 @@ const bingoItemsArray = [
   },
   {
     id: 41,
-    description: "XXX",
-    longDescription: "Maggie",
-    icon: "src/assets/icons/fox-patrol.jpg"
+    description: "LNT",
+    longDescription: "Leave No Trace",
+    icon: "src/assets/icons/lnt.png"
   },
   {
     id: 42,
-    description: "XXX",
-    longDescription: "Nami",
-    icon: "src/assets/icons/fox-patrol.jpg"
-  },
-  {
-    id: 43,
     description: "Scouting",
     longDescription: "Scouting America",
     icon: "src/assets/icons/bsa.png"
   },
   {
-    id: 44,
+    id: 43,
     description: "Scout",
     longDescription: "Scout",
     icon: "./src/assets/icons/scout.svg"
   },
   {
-    id: 45,
+    id: 44,
     description: "Tenderft.",
     longDescription: "Tenderfoot",
     icon: "./src/assets/icons/tenderfoot.SVG"
   },
   {
-    id: 46,
+    id: 45,
     description: "2nd Class",
     longDescription: "Second Class",
     icon: "src/assets/icons/second-class.svg"
   },
   {
-    id: 47,
+    id: 46,
     description: "First Class",
     longDescription: "First class",
     icon: "src/assets/icons/first-class.svg",
     smallText: true
   },
   {
-    id: 48,
+    id: 47,
     description: "Star",
     longDescription: "Star",
     icon: "src/assets/icons/star.svg"
   },
   {
-    id: 49,
+    id: 48,
     description: "Life",
     longDescription: "Life",
     icon: "src/assets/icons/life.svg"
   },
   {
-    id: 50,
+    id: 49,
     description: "Eagle",
     longDescription: "Eagle",
     icon: "src/assets/icons/eagle.svg"
+  },
+  {
+    id: 50,
+    description: "Palms",
+    longDescription: "Eagle Palms",
+    icon: "src/assets/icons/palms.jpeg"
   },
 ];
 
