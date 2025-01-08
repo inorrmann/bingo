@@ -185,81 +185,81 @@ const bingoItemsArray = [
   },
   {
     id: 31,
-    description: "Christopher",
-    longDescription: "Christopher",
-    icon: "src/assets/icons/christopher.jpg",
+    description: "Fox Patrol",
+    longDescription: "fox patrol",
+    icon: "src/assets/icons/fox-patrol.jpg",
     smallText: true
   },
   {
     id: 32,
-    description: "William",
-    longDescription: "William",
-    icon: "src/assets/icons/william.png"
+    description: "Elliott",
+    longDescription: "Elliott",
+    icon: "src/assets/icons/fox-patrol.png"
   },
   {
     id: 33,
-    description: "Jaden",
-    longDescription: "Jaden",
-    icon: "src/assets/icons/jaden.png"
+    description: "Finn",
+    longDescription: "Finn",
+    icon: "src/assets/icons/fox-patrol.png"
   },
   {
     id: 34,
-    description: "Alexis",
-    longDescription: "Alexis",
-    icon: "src/assets/icons/alexis.png"
+    description: "Graham",
+    longDescription: "Graham",
+    icon: "src/assets/icons/fox-patrol.png"
   },
   {
     id: 35,
-    description: "Brady",
-    longDescription: "Brady",
-    icon: "src/assets/icons/brady.png"
+    description: "Kade",
+    longDescription: "Kade",
+    icon: "src/assets/icons/fox-patrol.png"
   },
   {
     id: 36,
-    description: "Wesley",
-    longDescription: "Wesley",
-    icon: "src/assets/icons/wesley.jpg"
+    description: "Lee",
+    longDescription: "Lee",
+    icon: "src/assets/icons/fox-patrol.jpg"
   },
   {
     id: 37,
-    description: "Townes",
-    longDescription: "Townes",
-    icon: "src/assets/icons/townes.jpg"
+    description: "Ryker",
+    longDescription: "Ryker",
+    icon: "src/assets/icons/ryker.jpg"
   },
   {
     id: 38,
-    description: "Kinnik",
-    longDescription: "Kinnik",
-    icon: "src/assets/icons/kinnik.jpg"
+    description: "Camporee",
+    longDescription: "Camporee",
+    icon: "src/assets/icons/camporee.jpg"
   },
   {
     id: 39,
-    description: "Halian",
-    longDescription: "Halian",
-    icon: "src/assets/icons/halian.jpg"
+    description: "Merit B.",
+    longDescription: "Merit Badges",
+    icon: "src/assets/icons/merit-badges.jpg"
   },
   {
     id: 40,
-    description: "Brandon",
-    longDescription: "Brandon",
-    icon: "src/assets/icons/brandon.jpeg"
+    description: "Den Chief",
+    longDescription: "Den Chiefs",
+    icon: "src/assets/icons/fox-patrol.jpeg"
   },
   {
     id: 41,
-    description: "Maggie",
+    description: "XXX",
     longDescription: "Maggie",
-    icon: "src/assets/icons/maggie.jpg"
+    icon: "src/assets/icons/fox-patrol.jpg"
   },
   {
     id: 42,
-    description: "Nami",
+    description: "XXX",
     longDescription: "Nami",
-    icon: "src/assets/icons/nami.svg"
+    icon: "src/assets/icons/fox-patrol.jpg"
   },
   {
     id: 43,
-    description: "BSA",
-    longDescription: "Boys Scouts of America",
+    description: "Scouting",
+    longDescription: "Scouting America",
     icon: "src/assets/icons/bsa.png"
   },
   {

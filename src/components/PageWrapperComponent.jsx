@@ -55,7 +55,7 @@ export default function PageWrapperComponent() {
 
   return (
     <>
-    <div className="absolute m-2 bg-yellow-100">
+    <div className="m-2 bg-yellow-100">
       <BingoBoxComponent numberArray={usedNumbers} />
 
       <div className="flex justify-between text-center">
@@ -72,13 +72,13 @@ export default function PageWrapperComponent() {
 
         <div className="block text-white text-xl uppercase font-bold">
           <div
-            className="m-8 mt-16 p-2 rounded border border-slate-600 bg-slate-600 cursor-pointer"
+            className="m-8 mt-16 p-2 rounded border border-slate-600 bg-slate-500 cursor-pointer"
             onClick={getRandomNumber}
           >
             Next Number
           </div>
           <div
-            className="m-8 p-2 rounded border border-slate-600 bg-slate-600 cursor-pointer"
+            className="m-8 p-2 rounded border border-slate-600 bg-slate-500 cursor-pointer"
             onClick={submitRestartGame}
           >
             Restart Game
