@@ -240,7 +240,7 @@ const bingoItemsArray = [
   },
   {
     id: 40,
-    description: "Den Chief",
+    description: "Den Chiefs",
     longDescription: "Den Chiefs",
     icon: "src/assets/icons/fox-patrol.jpeg"
   },
