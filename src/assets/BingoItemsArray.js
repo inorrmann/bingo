@@ -180,7 +180,7 @@ const bingoItemsArray = [
   {
     id: 30,
     description: "First Aid",
-    longDescription: "first aid",
+    longDescription: "First Aid",
     icon: "src/assets/icons/first-aid.png",
   },
   {
