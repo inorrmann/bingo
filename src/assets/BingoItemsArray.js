@@ -3,25 +3,25 @@ const bingoItemsArray = [
     id: 1,
     description: "Cub Scouts",
     longDescription: "Cub Scouts",
-    icon: "src/assets/icons/cub-scouts.svg"
+    icon: "./cub-scouts.svg"
   },
   {
     id: 2,
     description: "bobcat",
     longDescription: "Bobcat",
-    icon: "src/assets/icons/bobcat.svg"
+    icon: "./bobcat.svg"
   },
   {
     id: 3,
     description: "Lion",
     longDescription: "Lion",
-    icon: "src/assets/icons/lion.svg"
+    icon: "./lion.svg"
   },
   {
     id: 4,
     description: "Tiger",
     longDescription: "Tiger",
-    icon: "src/assets/icons/tiger.svg"
+    icon: "./tiger.svg"
   },
   {
     id: 5,
@@ -33,7 +33,7 @@ const bingoItemsArray = [
     id: 6,
     description: "Bear",
     longDescription: "Bear",
-    icon: "src/assets/icons/bear.svg"
+    icon: "./bear.svg"
   },
   {
     id: 7,
@@ -45,7 +45,7 @@ const bingoItemsArray = [
     id: 8,
     description: "AOL",
     longDescription: "Arrow of Light",
-    icon: "./src/assets/icons/aol.svg"
+    icon: "./aol.svg"
   },
   {
     id: 9,
@@ -57,7 +57,7 @@ const bingoItemsArray = [
     id: 10,
     description: "Archery",
     longDescription: "Archery",
-    icon: "src/assets/icons/archery.svg"
+    icon: "./archery.svg"
   },
   {
     id: 11,
@@ -107,7 +107,7 @@ const bingoItemsArray = [
     id: 18,
     description: "6 essentials",
     longDescription: "Six Essentials",
-    icon: "/6-essentials.png",
+    icon: "./6-essentials.png",
     smallText: true
   },
   {
@@ -132,14 +132,14 @@ const bingoItemsArray = [
     id: 22,
     description: "Blue & Gold",
     longDescription: "Blue & gold",
-    icon: "src/assets/icons/B&G.png",
+    icon: "./B&G.png",
     smallText: true
   },
   {
     id: 23,
     description: "Pack 461",
     longDescription: "Pack 461",
-    icon: "src/assets/icons/461.png"
+    icon: "./461.png"
   },
   {
     id: 24,
