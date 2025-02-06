@@ -88,7 +88,7 @@ export default function PageWrapperComponent() {
 
       <div className="flex justify-center mt-2">
         <img
-          src="src/assets/icons/cub-scouts.svg"
+          src="./cub-scouts.svg"
           alt="Cub Scouts Logo"
           className="w-24 h-24"
         />
@@ -96,7 +96,7 @@ export default function PageWrapperComponent() {
           BRIDGING BINGO
         </span>
         <img
-          src="src/assets/icons/bsa.png"
+          src="./bsa.png"
           alt="BSA Logo"
           className="w-24 h-24"
         />

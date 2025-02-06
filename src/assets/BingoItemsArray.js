@@ -27,7 +27,7 @@ const bingoItemsArray = [
     id: 5,
     description: "Wolf",
     longDescription: "Wolf",
-    icon: "src/assets/icons/wolf.svg"
+    icon: "./wolf.svg"
   },
   {
     id: 6,
@@ -39,7 +39,7 @@ const bingoItemsArray = [
     id: 7,
     description: "Webelos",
     longDescription: "Webelos",
-    icon: "src/assets/icons/webelos.svg"
+    icon: "./webelos.svg"
   },
   {
     id: 8,
@@ -51,7 +51,7 @@ const bingoItemsArray = [
     id: 9,
     description: "Whittling",
     longDescription: "Whittling chip",
-    icon: "src/assets/icons/whittling-chip.svg"
+    icon: "./whittling-chip.svg"
   },
   {
     id: 10,
@@ -63,45 +63,45 @@ const bingoItemsArray = [
     id: 11,
     description: "Firemaking",
     longDescription: "Firemaking",
-    icon: "src/assets/icons/firemaking.jpeg",
+    icon: "./firemaking.jpeg",
     smallText: true
   },
   {
     id: 12,
     description: "swimming",
     longDescription: "Swimming",
-    icon: "src/assets/icons/swimming.png"
+    icon: "./swimming.png"
   },
   {
     id: 13,
     description: "Survival c.",
     longDescription: "Survival Camp",
-    icon: "src/assets/icons/survival-camp.png"
+    icon: "./survival-camp.png"
   },
   {
     id: 14,
     description: "Sq. knot",
     longDescription: "square knot",
-    icon: "src/assets/icons/square-knot.svg"
+    icon: "./square-knot.svg"
   },
   {
     id: 15,
     description: "hiking",
     longDescription: "hiking",
-    icon: "src/assets/icons/hiking.jpeg",
+    icon: "./hiking.jpeg",
   },
   {
     id: 16,
     description: "neckerchief",
     longDescription: "neckerchief",
-    icon: "src/assets/icons/neckerchief.png",
+    icon: "./neckerchief.png",
     smallText: true
   },
   {
     id: 17,
     description: "Scout life",
     longDescription: "Scout Life",
-    icon: "src/assets/icons/scout-life.jpeg"
+    icon: "./scout-life.jpeg"
   },
   {
     id: 18,
@@ -114,19 +114,19 @@ const bingoItemsArray = [
     id: 19,
     description: "Handbook",
     longDescription: "Scout handbook",
-    icon: "src/assets/icons/scout-handbook.jpeg"
+    icon: "./scout-handbook.jpeg"
   },
   {
     id: 20,
     description: "Bearnival",
     longDescription: "Bearnival",
-    icon: "src/assets/icons/bearnival.png"
+    icon: "./bearnival.png"
   },
   {
     id: 21,
     description: "Bridging",
     longDescription: "Bridging Ceremony",
-    icon: "src/assets/icons/bridging.jpeg"
+    icon: "./bridging.jpeg"
   },
   {
     id: 22,
@@ -145,56 +145,56 @@ const bingoItemsArray = [
     id: 24,
     description: "Scout Sign",
     longDescription: "Scout Sign",
-    icon: "src/assets/icons/scout-sign.png"
+    icon: "./scout-sign.png"
   },
   {
     id: 25,
     description: "Campfire",
     longDescription: "Campfire",
-    icon: "src/assets/icons/campfire.jpeg"
+    icon: "./campfire.jpeg"
   },
   {
     id: 26,
     description: "Tents",
     longDescription: "Tents",
-    icon: "src/assets/icons/tents.jpeg"
+    icon: "./tents.jpeg"
   },
   {
     id: 27,
     description: "S'mores",
     longDescription: "S'mores",
-    icon: "src/assets/icons/smores.png"
+    icon: "./smores.png"
   },
   {
     id: 28,
     description: "PWD",
     longDescription: "Pinewood Derby",
-    icon: "src/assets/icons/pwd.png"
+    icon: "./pwd.png"
   },
   {
     id: 29,
     description: "RGR",
     longDescription: "Rain Gutter Regatta",
-    icon: "src/assets/icons/rgr.png"
+    icon: "./rgr.png"
   },
   {
     id: 30,
     description: "First Aid",
     longDescription: "First Aid",
-    icon: "src/assets/icons/first-aid.png",
+    icon: "./first-aid.png",
   },
   {
     id: 31,
     description: "Fox Patrol",
     longDescription: "fox patrol",
-    icon: "src/assets/icons/fox-patrol.jpg",
+    icon: "./fox-patrol.jpg",
     smallText: true
   },
   {
     id: 32,
     description: "Elliott",
     longDescription: "Elliott",
-    icon: "src/assets/icons/elliott.png"
+    icon: "./elliott.png"
   },
   {
     id: 33,
@@ -212,98 +212,98 @@ const bingoItemsArray = [
     id: 35,
     description: "Kade",
     longDescription: "Kade",
-    icon: "src/assets/icons/kade.png"
+    icon: "./kade.png"
   },
   {
     id: 36,
     description: "Lee",
     longDescription: "Lee",
-    icon: "src/assets/icons/lee.png"
+    icon: "./lee.png"
   },
   {
     id: 37,
     description: "Ryker",
     longDescription: "Ryker",
-    icon: "src/assets/icons/ryker.jpg"
+    icon: "./ryker.jpg"
   },
   {
     id: 38,
     description: "Camporee",
     longDescription: "Camporee",
-    icon: "src/assets/icons/camporee.jpg"
+    icon: "./camporee.jpg"
   },
   {
     id: 39,
     description: "Merit Bdg.",
     longDescription: "Merit Badges",
-    icon: "src/assets/icons/merit-badges.jpg"
+    icon: "./merit-badges.jpg"
   },
   {
     id: 40,
-    description: "Den Chiefs",
-    longDescription: "Den Chiefs",
-    icon: "src/assets/icons/fox-patrol.jpeg"
+    description: "Den Chief",
+    longDescription: "Den Chief",
+    icon: "./den_chief.png"
   },
   {
     id: 41,
     description: "LNT",
     longDescription: "Leave No Trace",
-    icon: "src/assets/icons/lnt.png"
+    icon: "./lnt.png"
   },
   {
     id: 42,
     description: "Scouting",
     longDescription: "Scouting America",
-    icon: "src/assets/icons/bsa.png"
+    icon: "./bsa.png"
   },
   {
     id: 43,
     description: "Scout",
     longDescription: "Scout",
-    icon: "./src/assets/icons/scout.svg"
+    icon: "./scout.svg"
   },
   {
     id: 44,
     description: "Tenderft.",
     longDescription: "Tenderfoot",
-    icon: "./src/assets/icons/tenderfoot.SVG"
+    icon: "./tenderfoot.svg"
   },
   {
     id: 45,
     description: "2nd Class",
     longDescription: "Second Class",
-    icon: "src/assets/icons/second-class.svg"
+    icon: "./second-class.svg"
   },
   {
     id: 46,
     description: "First Class",
     longDescription: "First class",
-    icon: "src/assets/icons/first-class.svg",
+    icon: "./first-class.svg",
     smallText: true
   },
   {
     id: 47,
     description: "Star",
     longDescription: "Star",
-    icon: "src/assets/icons/star.svg"
+    icon: "./star.svg"
   },
   {
     id: 48,
     description: "Life",
     longDescription: "Life",
-    icon: "src/assets/icons/life.svg"
+    icon: "./life.svg"
   },
   {
     id: 49,
     description: "Eagle",
     longDescription: "Eagle",
-    icon: "src/assets/icons/eagle.svg"
+    icon: "./eagle.svg"
   },
   {
     id: 50,
     description: "Palms",
     longDescription: "Eagle Palms",
-    icon: "src/assets/icons/palms.jpeg"
+    icon: "./palms.jpeg"
   },
 ];
 
