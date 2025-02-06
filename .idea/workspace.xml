@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="265590ac-70c8-40a9-baa2-c83678484b4c" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/src/assets/BingoItemsArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/BingoItemsArray.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icons/6-essentials.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/6-essentials.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2cIs92GgouCtWYdZTgRjvFBWEVe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JavaScript Debug.index.html.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/Shared/bingo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Users/ingrid/Applications/IntelliJ IDEA Ultimate.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bingo/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="265590ac-70c8-40a9-baa2-c83678484b4c" name="Changes" comment="" />
+      <created>1707810271263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707810271263</updated>
+      <workItem from="1707810272281" duration="1897000" />
+      <workItem from="1707971339238" duration="37281000" />
+      <workItem from="1708655161078" duration="11239000" />
+      <workItem from="1709874720288" duration="1591000" />
+      <workItem from="1710954013432" duration="1350000" />
+      <workItem from="1716572822281" duration="594000" />
+      <workItem from="1721157322445" duration="581000" />
+      <workItem from="1724522551978" duration="598000" />
+      <workItem from="1725930078371" duration="598000" />
+      <workItem from="1731803794463" duration="599000" />
+      <workItem from="1735873720040" duration="11825000" />
+      <workItem from="1738450366099" duration="6721000" />
+    </task>
+    <task id="LOCAL-00001" summary="bingo skeleton">
+      <option name="closed" value="true" />
+      <created>1708068729887</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708068729887</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated title">
+      <option name="closed" value="true" />
+      <created>1708069198265</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708069198265</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updated vite config">
+      <option name="closed" value="true" />
+      <created>1708123109583</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708123109583</updated>
+    </task>
+    <task id="LOCAL-00004" summary="updated github main">
+      <option name="closed" value="true" />
+      <created>1708123963104</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708123963104</updated>
+    </task>
+    <task id="LOCAL-00005" summary="removed update to github main">
+      <option name="closed" value="true" />
+      <created>1708124007722</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708124007722</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updated link to icon">
+      <option name="closed" value="true" />
+      <created>1708124367399</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708124367399</updated>
+    </task>
+    <task id="LOCAL-00007" summary="updated favicon">
+      <option name="closed" value="true" />
+      <created>1708124619074</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708124619074</updated>
+    </task>
+    <task id="LOCAL-00008" summary="attempt to link icon better">
+      <option name="closed" value="true" />
+      <created>1708124723948</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708124723949</updated>
+    </task>
+    <task id="LOCAL-00009" summary="better favicon">
+      <option name="closed" value="true" />
+      <created>1708125175952</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708125175952</updated>
+    </task>
+    <task id="LOCAL-00010" summary="updated base in index.html">
+      <option name="closed" value="true" />
+      <created>1708125533732</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708125533732</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commented out config">
+      <option name="closed" value="true" />
+      <created>1708126698084</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708126698084</updated>
+    </task>
+    <task id="LOCAL-00012" summary="commented out base">
+      <option name="closed" value="true" />
+      <created>1708126912398</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708126912398</updated>
+    </task>
+    <task id="LOCAL-00013" summary="vite config">
+      <option name="closed" value="true" />
+      <created>1708127087148</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708127087148</updated>
+    </task>
+    <task id="LOCAL-00014" summary="is it the extension?">
+      <option name="closed" value="true" />
+      <created>1708127328185</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708127328185</updated>
+    </task>
+    <task id="LOCAL-00015" summary="is it this link?">
+      <option name="closed" value="true" />
+      <created>1708127633845</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1708127633845</updated>
+    </task>
+    <task id="LOCAL-00016" summary="jpg instead of svg">
+      <option name="closed" value="true" />
+      <created>1708128089577</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1708128089577</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added more pics and fixed css">
+      <option name="closed" value="true" />
+      <created>1709009961213</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1709009961213</updated>
+    </task>
+    <task id="LOCAL-00018" summary="names added">
+      <option name="closed" value="true" />
+      <created>1709408983574</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1709408983574</updated>
+    </task>
+    <task id="LOCAL-00019" summary="last pictures added">
+      <option name="closed" value="true" />
+      <created>1709699286718</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1709699286718</updated>
+    </task>
+    <task id="LOCAL-00020" summary="new edit">
+      <option name="closed" value="true" />
+      <created>1736217598522</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1736217598522</updated>
+    </task>
+    <task id="LOCAL-00021" summary="new pictures and items">
+      <option name="closed" value="true" />
+      <created>1736310205719</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1736310205719</updated>
+    </task>
+    <task id="LOCAL-00022" summary="new pictures and items">
+      <option name="closed" value="true" />
+      <created>1736310282898</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1736310282898</updated>
+    </task>
+    <task id="LOCAL-00023" summary="new pictures and items">
+      <option name="closed" value="true" />
+      <created>1736310319329</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1736310319329</updated>
+    </task>
+    <task id="LOCAL-00024" summary="new items in array">
+      <option name="closed" value="true" />
+      <created>1736310653924</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1736310653924</updated>
+    </task>
+    <task id="LOCAL-00025" summary="updated pictures">
+      <option name="closed" value="true" />
+      <created>1736313622346</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1736313622346</updated>
+    </task>
+    <task id="LOCAL-00026" summary="update">
+      <option name="closed" value="true" />
+      <created>1738820906678</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1738820906678</updated>
+    </task>
+    <task id="LOCAL-00027" summary="gh-pages branch created with dist">
+      <option name="closed" value="true" />
+      <created>1738822192473</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1738822192473</updated>
+    </task>
+    <task id="LOCAL-00028" summary="update">
+      <option name="closed" value="true" />
+      <created>1738822594318</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1738822594318</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bingo skeleton" />
+    <MESSAGE value="updated title" />
+    <MESSAGE value="updated vite config" />
+    <MESSAGE value="updated github main" />
+    <MESSAGE value="removed update to github main" />
+    <MESSAGE value="updated link to icon" />
+    <MESSAGE value="updated favicon" />
+    <MESSAGE value="attempt to link icon better" />
+    <MESSAGE value="better favicon" />
+    <MESSAGE value="updated base in index.html" />
+    <MESSAGE value="commented out config" />
+    <MESSAGE value="commented out base" />
+    <MESSAGE value="vite config" />
+    <MESSAGE value="is it the extension?" />
+    <MESSAGE value="is it this link?" />
+    <MESSAGE value="jpg instead of svg" />
+    <MESSAGE value="added more pics and fixed css" />
+    <MESSAGE value="names added" />
+    <MESSAGE value="last pictures added" />
+    <MESSAGE value="new edit" />
+    <MESSAGE value="new pictures and items" />
+    <MESSAGE value="new items in array" />
+    <MESSAGE value="updated pictures" />
+    <MESSAGE value="gh-pages branch created with dist" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+</project>
