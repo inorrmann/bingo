@@ -107,7 +107,7 @@ const bingoItemsArray = [
     id: 18,
     description: "6 essentials",
     longDescription: "Six Essentials",
-    icon: "src/assets/icons/6-essentials.png",
+    icon: "/6-essentials.png",
     smallText: true
   },
   {
