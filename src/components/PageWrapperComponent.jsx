@@ -59,11 +59,11 @@ export default function PageWrapperComponent() {
       <BingoBoxComponent numberArray={usedNumbers} />
 
       <div className="flex justify-between text-center">
-        <div className="flex justify-start m-4 mb-2 h-52">
+        <div className="flex justify-start m-4 mb-2 h-40">
           <img
             src={findIconInArray(selectedNumber)}
             alt={findDescriptionInArray(selectedNumber)}
-            className="max-h-48 max-w-48 mr-4 object-contain"
+            className="max-h-36 max-w-36 mr-4 object-contain"
           />
           <div className="text-6xl font-bold uppercase mt-20 text-slate-800">
             {selectedNumber}{selectedNumber !== null ? "." : ""} {findDescriptionInArray(selectedNumber)}
@@ -72,7 +72,7 @@ export default function PageWrapperComponent() {
 
         <div className="block text-white text-xl uppercase font-bold">
           <div
-            className="m-8 mt-16 p-2 rounded border border-slate-600 bg-slate-500 cursor-pointer"
+            className="m-8 p-2 rounded border border-slate-600 bg-slate-500 cursor-pointer"
             onClick={getRandomNumber}
           >
             Next Number
@@ -90,15 +90,15 @@ export default function PageWrapperComponent() {
         <img
           src="./cub-scouts.svg"
           alt="Cub Scouts Logo"
-          className="w-24 h-24"
+          className="w-16 h-16"
         />
-        <span className="text-7xl mt-8 font-bold text-slate-400">
+        <span className="text-5xl m-2 font-bold text-slate-400">
           BRIDGING BINGO
         </span>
         <img
           src="./bsa.png"
           alt="BSA Logo"
-          className="w-24 h-24"
+          className="w-16 h-16"
         />
       </div>
     </div>

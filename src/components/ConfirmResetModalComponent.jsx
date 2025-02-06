@@ -5,7 +5,7 @@ export default function ConfirmResetModalComponent(props) {
   } = props;
 
     return (
-      <div className="relative top-96 mx-8 p-8 rounded bg-rose-400 text-3xl uppercase font-bold !z-10 text-center">
+      <div className="mx-8 p-8 rounded bg-rose-400 text-3xl uppercase font-bold !z-10 text-center">
         <br />
         Are you sure you want to restart the game?
         <br />
