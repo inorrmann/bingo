@@ -49,9 +49,9 @@ const bingoItemsArray = [
   },
   {
     id: 9,
-    description: "Whittling",
-    longDescription: "Whittling chip",
-    icon: "./whittling-chip.svg"
+    description: "Denner",
+    longDescription: "Denner",
+    icon: "./denner.jpg"
   },
   {
     id: 10,
@@ -200,13 +200,13 @@ const bingoItemsArray = [
     id: 33,
     description: "Finn",
     longDescription: "Finn",
-    icon: "src/assets/icons/fox-patrol.png"
+    icon: "./finn.jpg"
   },
   {
     id: 34,
     description: "Graham",
     longDescription: "Graham",
-    icon: "src/assets/icons/fox-patrol.png"
+    icon: "./graham.jpg"
   },
   {
     id: 35,
